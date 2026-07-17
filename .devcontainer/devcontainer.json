@@ -1,5 +1,13 @@
 {
   "name": "Clinical & Wastewater Genomics Workshop",
   "image": "mcr.microsoft.com/devcontainers/python:3.12",
-  "postCreateCommand": "pip install jupyterlab notebook pandas seaborn matplotlib numpy"
+  "postCreateCommand": "pip install jupyterlab notebook pandas seaborn matplotlib numpy",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
 }
