@@ -5,10 +5,12 @@ In this tutorial you'll be running a Jupyter Notebook to do descriptive and time
 - Plotting the number of clinical and wastewater samples over time
 - Plotting case counts over time
 
+One of the simplest ways to visualize data is using the programming language Python in [Jupyter Notebook](https://jupyter.org/). Jupyter Notebooks are interactive documents that combine executable code, text, equations, and visualizations in a single environment. They are widely used in data science and bioinformatics because they make it easy to explore data, document analyses, and share reproducible workflows. In these tutorials you'll open and run a series of Jupyter notebooks containing code to help you visualize your data.
+
 To run this Jupyter Notebook you have two options:
 
-## Command line (local computer)
+## Running Locally
 Open a terminal, go to your project folder (cd path/to/project), then start Jupyter with the command ```jupyter notebook``` or ```jupyter lab```. Your browser opens the Jupyter interface, where you can open and run the .ipynb notebook.
 
-## GitHub Codespace
+## GitHub Codespaces
 Open the repository in your Codespace and click the .ipynb file to open it in the VS Code notebook editor.
