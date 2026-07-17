@@ -9,5 +9,9 @@
         "ms-toolsai.jupyter"
       ]
     }
+  },
+  "settings": {
+    "python.defaultInterpreterPath": "/usr/local/bin/python",
+    "jupyter.jupyterServerType": "local"
   }
 }
