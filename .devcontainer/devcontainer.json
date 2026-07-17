@@ -1,0 +1,5 @@
+{
+  "name": "Clinical & Wastewater Genomics Workshop",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "postCreateCommand": "pip install jupyterlab notebook pandas seaborn matplotlib numpy"
+}
