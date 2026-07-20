@@ -2,8 +2,9 @@
 
 In this tutorial you'll be running a Jupyter Notebook to do descriptive and time-resolved plotting of both wastewater and clinical samples. You'll be:
 
-- Plotting the number of clinical and wastewater samples over time
 - Plotting case counts over time
+- Plotting the number of clinical and wastewater samples over time
+
 
 One of the simplest ways to visualize data is using the programming language Python in [Jupyter Notebook](https://jupyter.org/). Jupyter Notebooks are interactive documents that combine executable code, text, equations, and visualizations in a single environment. They are widely used in data science and bioinformatics because they make it easy to explore data, document analyses, and share reproducible workflows. In these tutorials you'll open and run a series of Jupyter notebooks containing code to help you visualize your data.
 
