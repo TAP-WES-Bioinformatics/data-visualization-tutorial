@@ -1,0 +1,14 @@
+name: data-visualization-tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - seaborn
+  - matplotlib
+  - numpy
+  - pyyaml
+  - jupyterlab
+  - notebook
+  - ipykernel
