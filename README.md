@@ -34,8 +34,10 @@ conda activate data-visualization-tutorial
 - Plotting the number of clinical and wastewater samples over time
 - Plotting case counts over time
 
-## Step 2 - Spatial Resolution of Lineages
+## Step 2 - Lineage Composition Over Time
+- Stacked lineplot of all lineages circulating in clinical and wastewater samples over time
+
+## Step 3 - Spatial Resolution of Lineages
 - Plotting the prevelance of a lineage over a region for clinical and wastewater samples
 
-## Step 3 - Lineage Composition Over Time
-- Stacked lineplot of all lineages circulating in clinical and wastewater samples over time
+
