@@ -1,7 +1,7 @@
 {
   "name": "Clinical & Wastewater Genomics Workshop",
   "image": "mcr.microsoft.com/devcontainers/python:3.12",
-  "postCreateCommand": "pip install jupyterlab notebook 'pandas<3' seaborn matplotlib numpy geopandas pygris ipykernel && python -m ipykernel install --user --name data-visualization-tutorial --display-name 'Python (data-visualization-tutorial)'",
+  "postCreateCommand": "pip install jupyterlab notebook 'pandas<3' seaborn matplotlib numpy geopandas pygris ipykernel && python -m ipykernel install --user --name data-visualization-tutorial --display-name 'Python (data-visualization-tutorial)' && jupyter kernelspec uninstall -y python3 2>/dev/null || true",
   "customizations": {
     "vscode": {
       "extensions": [
