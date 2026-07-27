@@ -6,6 +6,8 @@ Use the left sidebar to browse files, and click on them to open them in the file
 
 You'll find each step of the tutorial as a numbered directory in the sidebar, starting with Step1. Each directory contains all the instructions and data needed for that step. Go ahead and cd into Step1 and open Step1.md to get started.
 
+This dataset contains real world clinical sequencing, wastewater sequencing, and case count data from San Diego County, California, United States from September 2023 to October 2023. Here we're going to walk through some standard data visualizations and compare what we can learn from each data modality.
+
 Have fun!
 
 
