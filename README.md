@@ -29,6 +29,7 @@ If you prefer to run the tutorial locally, create a conda environment using the 
 conda env create -f environment.yaml
 conda activate data-visualization-tutorial
 ```
+Navigate the the ```data-visualization-tutorial``` directory and then run ```jupyter-notebook``` to launch.
 
 # What You'll Learn
 
